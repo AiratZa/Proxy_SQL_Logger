@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/proxy_sql.dir/main.cpp.o CMakeFiles/proxy_sql.dir/ProxyServer.cpp.o CMakeFiles/proxy_sql.dir/Client.cpp.o CMakeFiles/proxy_sql.dir/utils.cpp.o CMakeFiles/proxy_sql.dir/Config.cpp.o  -o proxy_sql 
