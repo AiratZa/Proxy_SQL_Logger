@@ -16,10 +16,10 @@
 
 ## 3. Run test_1.sh for table and rows creation.
 
-![alt text](./test_1_results.png)
+![alt text](https://raw.githubusercontent.com/AiratZa/Proxy_SQL_Logger/master/load_tests/test_1_results.png)
 
 ## 4. Run multi-thread stress test with SELECT-queries
 
-![alt text](./test_2_results.png)
+![alt text](https://raw.githubusercontent.com/AiratZa/Proxy_SQL_Logger/master/load_tests/test_2_results.png)
 
 
